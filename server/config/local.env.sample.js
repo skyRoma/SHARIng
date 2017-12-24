@@ -9,11 +9,11 @@ module.exports = {
   DOMAIN: 'http://localhost:9000',
   SESSION_SECRET: 'sharing-secret',
 
-  FACEBOOK_ID: 'app-id',
-  FACEBOOK_SECRET: 'secret',
+  FACEBOOK_ID: '1',
+  FACEBOOK_SECRET: '396',
 
-  TWITTER_ID: 'app-id',
-  TWITTER_SECRET: 'secret',
+  TWITTER_ID: 'OVT',
+  TWITTER_SECRET: 'gyrcP',
 
   GOOGLE_ID: 'app-id',
   GOOGLE_SECRET: 'secret',
